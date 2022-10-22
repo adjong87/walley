@@ -1,0 +1,10 @@
+export const file1 = require("./1.jpg");
+export const file2 = require("./2.jpg");
+export const file3 = require("./3.jpg");
+export const file4 = require("./4.jpg");
+export const file5 = require("./5.jpg");
+export const file6 = require("./6.jpg");
+export const file7 = require("./7.jpg");
+export const file8 = require("./8.jpg");
+export const file9 = require("./9.jpg");
+export const file10 = require("10.jpg");
